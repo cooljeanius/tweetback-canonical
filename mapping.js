@@ -75,4 +75,10 @@ export const mapping = {
 	"glomtwit": "https://tweets.joe.gl",
 	"joeglombek": "https://tweets.joe.gl",
 	"lukestein": "https://lukestein.github.io/twitter/",
+	"gesa": "https://twitter.akiro.se",
+	"Redfire75369": "https://tweet.redfire.dev/",
+	"ckirknielsen": "https://tweets.chriskirknielsen.com/",
+	"zzamboni": "https://zzamboni.org/twitter/",
+	"tomayac": "https://tomayac.com/tweets/",
+	"boogheta": "https://boogheta.github.io/tweets-archive/",
 };
