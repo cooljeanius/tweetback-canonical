@@ -7,7 +7,6 @@ export const mapping = {
 	"rknightuk": "https://hellsite.rknight.me",
 	"steren": "https://twitter.steren.fr",
 	"saneef": "https://tweets.saneef.com/",
-	"accudio": "https://twitter.alistairshepherd.uk",
 	"cutewitchphoebe": "https://twitter.catgirlin.space",
 	"madelinecatgirl": "https://twitter.catgirlin.space",
 	"purplevioletsky": "https://twitter.catgirlin.space",
@@ -81,4 +80,5 @@ export const mapping = {
 	"zzamboni": "https://zzamboni.org/twitter/",
 	"tomayac": "https://tomayac.com/tweets/",
 	"boogheta": "https://boogheta.github.io/tweets-archive/",
+	"S0lll0s": "https://tweets.s-ol.nu/",
 };
