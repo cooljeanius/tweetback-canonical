@@ -82,4 +82,7 @@ export const mapping = {
 	"boogheta": "https://boogheta.github.io/tweets-archive/",
 	"S0lll0s": "https://tweets.s-ol.nu/",
 	"CarwilBJ": "https://carwilb.github.io/twitter/",
+	"tiefpunkt": "https://archive.tiefpunkt.com/twitter/tiefpunkt/",
+	"preciousplasmuc": "https://archive.tiefpunkt.com/twitter/preciousplasmuc/",
+	"ttn_munich": "https://archive.tiefpunkt.com/twitter/ttn_munich/",
 };
